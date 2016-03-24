@@ -1,0 +1,8 @@
+The code works for Linux 64bit.
+
+
+To run:
+1. In line 35 of the function ./third-party/grouping/lib/spectralPb.m add your local MATLAB library path.
+2. From inside the folder run startup.m
+3. Then run demo_videoseg.m
+
